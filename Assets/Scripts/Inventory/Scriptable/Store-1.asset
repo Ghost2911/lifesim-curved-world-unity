@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2437ba0e6d7043b45b63e31054fc7b59, type: 3}
+  m_Name: Store-1
+  m_EditorClassIdentifier: 
+  storeName: Store-1
+  items:
+  - name: mush 1
+    prefab: {fileID: -4435872930763085175, guid: 1ac31fb474aead74ab0101d0d6546c52,
+      type: 3}
+    buy: 15
+    sell: 10
+    count: 20
+  - name: flower 1
+    prefab: {fileID: -6376181266869268760, guid: 4d1f930728eb81f499eefd1f6d4db221,
+      type: 3}
+    buy: 20
+    sell: 4
+    count: 12
+  - name: flower 2
+    prefab: {fileID: 3855590545936755196, guid: d7375139d18121f4daae96053a84e4c9,
+      type: 3}
+    buy: 50
+    sell: 5
+    count: 33
+  - name: flower 3
+    prefab: {fileID: 8826283330222166540, guid: 221bd8eee906efe489a9f1c8aad0ec09,
+      type: 3}
+    buy: 100
+    sell: 50
+    count: 222
+  - name: tree 1
+    prefab: {fileID: 6550102253530364581, guid: e289bf5debb17f6459818c207d781953,
+      type: 3}
+    buy: 10
+    sell: 5
+    count: 500

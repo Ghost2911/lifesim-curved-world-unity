@@ -1,0 +1,1 @@
+﻿public enum toolType { axe, shovel, pickaxe, sword, hammer,  fishrod, staff,  other }
