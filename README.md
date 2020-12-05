@@ -1,3 +1,3 @@
 # LifeSim
-Mobile sandbox in curved world - WORK IN PROGRESS
+MOBILE SANDBOX IN CURVED WORLD (WORK IN PROGRESS)
 -
